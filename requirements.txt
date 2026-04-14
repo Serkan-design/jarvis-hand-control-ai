@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+pyautogui
+numpy
+edge-tts
+pygame
+SpeechRecognition
+pyaudio
